@@ -48,7 +48,7 @@ This project has been developed with the following evaluation criteria in mind:
 
 Feel free to connect with me!
 
-* **Name:** [Caleb Kiptoo]
+* **Name:** Caleb Kiptoo
 * **GitHub:** [Github](https://github.com/calebkibon)
 * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/calebkibon/)
 * **Twitter:** [X](https://x.com/engineer1931)
